@@ -2,7 +2,7 @@ import {config} from '../config.js'
 
 const tips = {
     1: '抱歉，出现了一个错误',
-    1005:'appkey无效，请前往www.7yue.pro申请',
+    1005:'appkey is not',
     3000:'期刊不存在'
 }
 
